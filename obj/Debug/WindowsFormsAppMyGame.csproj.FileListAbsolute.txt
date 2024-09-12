@@ -1,0 +1,12 @@
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\bin\Debug\WindowsFormsAppMyGame.exe.config
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\bin\Debug\WindowsFormsAppMyGame.exe
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\bin\Debug\WindowsFormsAppMyGame.pdb
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.csproj.AssemblyReference.cache
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.Form1.resources
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.Properties.Resources.resources
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.SpritesBody.resources
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.SpritesThing.resources
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.csproj.GenerateResource.cache
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.csproj.CoreCompileInputs.cache
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.exe
+D:\C# Project\WindowsFormsAppMyGame\WindowsFormsAppMyGame\obj\Debug\WindowsFormsAppMyGame.pdb
